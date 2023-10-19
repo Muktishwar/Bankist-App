@@ -4,6 +4,13 @@ Bankist application is a fictional online bank using dynamic arrays and classes 
 ## Skills
 Javascript, HTML, CSS, DOM
 
+## Login data
+js - 1111
+jd - 2222
+stw - 3333
+ss - 4444
+
+
 ## Screenshots
 ![Screenshot (100)](https://github.com/Muktishwar/Bankist-App/assets/84079853/793720b6-e218-4d9f-ac4d-ff45048bba43)
 ![Screenshot (101)](https://github.com/Muktishwar/Bankist-App/assets/84079853/8572913f-2ecd-4c7e-b0a7-1477c8874589)
